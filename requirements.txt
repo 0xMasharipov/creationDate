@@ -1,5 +1,5 @@
 fastapi
 uvicorn[standard]
-aiogram==2.25.1
-telethon
-python-dotenv
+pydantic
+numpy
+aiogram
